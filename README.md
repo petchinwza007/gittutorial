@@ -6,4 +6,4 @@ for git tutorial eiei
 
 - Bob cat bob@mail.com
 - Tom cat tom@mail.com
-- Sue Lamb sue@mail.com
+- Mary Lamb marry@mail.com
